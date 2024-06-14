@@ -10,7 +10,7 @@ The APISSER Methodology for Systematic Literature Reviews in Engineering
 > by [stefaniecg](mailto:stefaniecg@icloud.com), [ORCID: 0000-0001-8091-0706](https://orcid.org/0000-0001-8091-0706)
   14 June 2024, Innsbruck, Austria
 
-This repository contains the graphical user interface (GUI) used in the case study shown in the paper: The APISSER Methodology for Systematic Literature Reviews in Engineering [1].
+This repository contains the graphical user interface (GUI) used in the case study shown in the paper: The APISSER Methodology for Systematic Literature Reviews in Engineering [1](#references).
 
 Compilation notes:
    - This project is written in [python](https://www.python.org).
@@ -28,7 +28,7 @@ The database contains only one table, please extend as required with more tables
 Each systematic literature review GUI has a folder.
 
 ## Projects folders info
-   - `./ecs_tiqp/`: The Electronic Control System of a Trapped-Ion Quantum Processor: A Systematic Literature Review [2]
+   - `./ecs_tiqp/`: The Electronic Control System of a Trapped-Ion Quantum Processor: A Systematic Literature Review [2](#references)
 
 Inside each SLR folder the organization is as follows:
 
@@ -49,7 +49,7 @@ Inside each SLR folder the organization is as follows:
 # Licence
 
 CC BY 4.0 - ATTRIBUTION 4.0 INTERNATIONAL [licence info](https://creativecommons.org/licenses/by/4.0/)
-   - Attribution — You must give appropriate credit to the author and the paper [1]
+   - Attribution — You must give appropriate credit to the author and the paper [1](#references)
    - You are free to:
      * Share — copy and redistribute the material in any medium or format for any purpose, even commercially.
      * Adapt — remix, transform, and build upon the material for any purpose, even commercially.
