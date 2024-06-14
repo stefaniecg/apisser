@@ -2,12 +2,12 @@
 project: The APISSER Methodology for Systematic Literature Reviews in Engineering
 author: stefanie castillo
 orcid: 0000-0001-8091-0706
-upload date: 14 June 2024
+date: 14 June 2024
 ---
 
 The APISSER Methodology for Systematic Literature Reviews in Engineering
 ========================================================================
-> by [stefaniecg](mailto:stefaniecg@icloud.com), [ORCID: 0000-0001-8091-0706](https://orcid.org/0000-0001-8091-0706)
+> by [stefaniecg](mailto:stefaniecg@icloud.com), [ORCID: 0000-0001-8091-0706](https://orcid.org/0000-0001-8091-0706),
   14 June 2024, Innsbruck, Austria
 
 This repository contains the graphical user interface (GUI) used in the case study shown in the paper: The APISSER Methodology for Systematic Literature Reviews in Engineering [|1|](#references).
@@ -58,4 +58,5 @@ CC BY 4.0 - ATTRIBUTION 4.0 INTERNATIONAL [licence info](https://creativecommons
 # References
 
 [1] S. Castillo et.al, “The APISSER Methodology for Systematic Literature Reviews in Engineering,” IEEE Access, vol. 10, pp. 23700–23707, 2022, doi: [10.1109/ACCESS.2022.3148206](https://doi.org/10.1109/ACCESS.2022.3148206)
+
 [2] S. Castillo, “The Electronic Control System of a Trapped-Ion Quantum Processor: a Systematic Literature Review,” IEEE Access, Jun. 2023, doi: [10.1109/ACCESS.2023.3289936](https://doi.org/10.1109/ACCESS.2023.3289936).
