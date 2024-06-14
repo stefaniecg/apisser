@@ -1,0 +1,2 @@
+id,date,total,open,screened,selected,rejected,repeated,query
+wos_0,2021-04-01,500,0,24,6,494,0,TS = (ion trap AND *quantum* AND *electronic*) AND PY = (2000- 2021) AND LA = english
